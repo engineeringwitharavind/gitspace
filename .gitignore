@@ -7,4 +7,5 @@ package-lock.json
 /public
 /build
 /src/context
-/src/images
+/src/images/preloader.gif
+/src/images/login-img.png
