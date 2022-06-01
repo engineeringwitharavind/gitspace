@@ -28,11 +28,3 @@ A Web application to 🔎 visualize GitHub profiles 📊 with simple Authenticat
 
 - [node](https://nodejs.org/en/) >= v12.16.1
 - npm >= 6.13.4
-
-## 👨‍🍳 Author
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aravind-alpha)
-
-## 📜 Licence
-
-[MIT License](https://github.com/aravind-alpha/GitSpace/blob/master/LICENSE) Aravind
